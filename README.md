@@ -3,4 +3,6 @@ its a landing page of a medical solutions .which is one made for medical staff/h
 
 HERE using Tech stack is HTML & CSS
 
-![LINK] (https://medifine-solutions-fsjs.netlify.app)
+* [link](https://medifine-solutions-fsjs.netlify.app)
+
+
