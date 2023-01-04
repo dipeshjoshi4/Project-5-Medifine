@@ -5,4 +5,6 @@ HERE using Tech stack is HTML & CSS
 
 * [link](https://medifine-solutions-fsjs.netlify.app)
 
+<img src="output.png"  width="800" height="400">
+
 
