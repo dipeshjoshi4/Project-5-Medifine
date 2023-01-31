@@ -12,9 +12,10 @@
 
 its a landing page of a medical solutions .which is one made for medical staff/hospital or any E-med shop
 
-
+## Live Link
 * [link](https://medifine-solutions-fsjs.netlify.app)
 
+## Project Output
 <img src="output.png"  width="800" height="400">
 
 
